@@ -6,7 +6,7 @@
 
 `SEMESTRE: 1º`
 
-A educação financeira é uma habilidade essencial na sociedade moderna porque abrange o entendimento e a aplicação de conceitos para gerenciar finanças de forma conscient como o registro de despesas. As crianças estão crescendo em mundo cada vez mais complexo, onde irão eventualmente controlar seu próprio futuro financeiro. Terão de gerir os riscos: poupar, evitar assumir dívidas incontroláveis e prover para a velhice os cuidados com a saúde. Somando-se a esta complexidade estão os desenvolvimentos económicos e tecnológicos que trouxeram maior conectividade global e mudanças massivas na comunicação e transações financeiras, bem como nas interações sociais e comportamento do consumidor.
+A educação financeira é uma habilidade essencial na sociedade moderna porque abrange o entendimento e a aplicação de conceitos para gerenciar finanças de forma consciente como o uso do registro de despesas. As crianças estão crescendo em mundo cada vez mais complexo, onde irão eventualmente controlar seu próprio futuro financeiro. Terão de gerir os riscos: poupar, evitar assumir dívidas incontroláveis e prover para a velhice os cuidados com a saúde. Somando-se a esta complexidade estão os desenvolvimentos económicos e tecnológicos que trouxeram maior conectividade global e mudanças massivas na comunicação e transações financeiras, bem como nas interações sociais e comportamento do consumidor.
 
 ## Integrantes
 
