@@ -1,4 +1,4 @@
-# Registro de Gastos e Despesas
+# Educação Financeira 
 
 `CURSO: Sistemas de Informação`
 
