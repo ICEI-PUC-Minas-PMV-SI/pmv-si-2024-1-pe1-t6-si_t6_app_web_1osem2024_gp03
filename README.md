@@ -1,4 +1,4 @@
-# Título do Projeto
+# Registro de Gastos e Despesas
 
 `CURSO: Sistemas de Informação`
 
@@ -10,15 +10,15 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Gabriela Alessandra Vidal Herculano
+* Giulia Faria Marelli 
+* Hermano Jose Barbosa Filho
+* Victor Fioravante da Silva Barcelos
+* Guilherme dos Santos Guimarães
 
 ## Orientador
 
-* Nome completo do professor 1
+* Nesley Jesus Daher de Oliveira 
 
 # Planejamento
 
