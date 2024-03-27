@@ -4,12 +4,12 @@
 
 1.	Helena tem 38 anos e é formada em Letras. Recentemente, ela se mudou para São Paulo com o marido e os dois filhos, e apesar da graduação, Helena possui o próprio negócio faz oito meses: uma floricultura. Entretanto, ela se sente prejudicada pela falta de tempo e o capital limitado que a impede de expandir a empresa. Helena busca por uma solução que facilite melhorar o lado financeiro e criativo da loja.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t6-si_t6_app_web_1osem2024_gp03/assets/161776984/f97a4a36-3fc6-4734-8146-687862c8c8b9)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t6-si_t6_app_web_1osem2024_gp03/assets/161776984/ad068fac-2da6-4fa9-8ac5-93c90421e1ea)
 
 
 3.	Norberto é um jovem-aprendiz de 19 anos que trabalha no setor de telemarketing e está procurando maneiras de investir em uma carreira acadêmica porque se preocupa constantemente com o próprio futuro. Norberto procura maneiras de economizar dinheiro e receber conselhos profissionais sobre qual profissão seguir porque ao mesmo tempo que quer entrar em uma faculdade também quer manter o emprego para ajudar a família.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t6-si_t6_app_web_1osem2024_gp03/assets/161776984/eee5ed2f-b2d9-41e8-a30d-21f3022f048b)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t6-si_t6_app_web_1osem2024_gp03/assets/161776984/cd1892d8-11da-494d-8b8e-973c550d96e3)
 
 
 ## Histórias de Usuários
